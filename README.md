@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-A brief bio to **Ruheng-W/Ruheng-W**:
+A brief bio to **Ruheng**:
 
 - 🔭 I’m currently studying in UT Southwestern medical center.
 - 🌱 I’m currently majoring in biomedical engineering.
